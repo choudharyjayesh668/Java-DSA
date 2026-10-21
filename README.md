@@ -70,8 +70,6 @@ git clone https://github.com/choudharyjayesh668/Java-DSA
 cd DSA
 ```
 
-Replace `https://github.com/choudharyjayesh668/Java-DSA` with the URL of this repository.
-
 ## Problem-Solving Approach
 
 For each problem, I aim to:
