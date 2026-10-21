@@ -66,11 +66,11 @@ javac -version
 ### Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/choudharyjayesh668/Java-DSA
 cd DSA
 ```
 
-Replace `YOUR_REPOSITORY_URL` with the URL of this repository.
+Replace `https://github.com/choudharyjayesh668/Java-DSA` with the URL of this repository.
 
 ## Problem-Solving Approach
 
